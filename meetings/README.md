@@ -1,23 +1,27 @@
 ---
 has_children: true
+child_nav_order: reversed
+nav_order: 30 
 ---
+
 # Meetings 
 
-Meetings are scheduled every other Wednesday at 1pm US Pacific Time and are open to anyone interested in participating in the project. You can follow the TAC discussions by signing up for the [TAC email list](https://lists.aswf.io/g/tac).
+Meetings are scheduled every other Wednesday at 1:00 pm US Pacific Time and are 
+open to anyone interested in participating in the project. [Register for TAC 
+meetings] to receive an invite on your calendar.
 
-You can review past meeting notes below and the [calendar of meetings](https://lists.aswf.io/calendar).
+## Meeting Agenda
 
-For the next TAC meeting, you can propose agenda items either [via email to the TAC](mailto:tac@lists.aswf.io), or as a pull request against [those meeting notes](/meetings).
+Propose agenda items by [creating a new issue] under 'TAC Meeting agenda item' 
+for an upcoming TAC meeting.
 
-There is a [template](template.md) file in here for creating the upcoming meeting agenda. Note that there is a required metadata section at the top that must be present in order the meeting notes to show in the right place.
+The agenda for the next meeting can be found [here](template).
 
-## Conference call details
+Future meeting agenda items can be found [here](https://github.com/orgs/AcademySoftwareFoundation/projects/19)
 
-Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/757849640
+## Meeting Notes
 
-* iPhone one-tap: US: +16465588656,,757849640#  or +16699006833,,757849640#
-Or Telephone:
-    Dial(for higher quality, dial a number based on your current location):
-        US: +1 646 558 8656  or +1 669 900 6833  or +1 855 880 1246 (Toll Free) or +1 877 369 0926 (Toll Free)
-    Meeting ID: 757 849 640
-    International numbers available: https://zoom.us/u/bHi4eTbaK
+Past meeting notes and agendas are listed below.
+
+[Register for TAC meetings]: https://zoom-lfx.platform.linuxfoundation.org/meeting/97880950229?password=81d2940e-c055-43b9-9b5a-6cd7d7090feb
+[creating a new issue]: https://github.com/AcademySoftwareFoundation/tac/issues/new
