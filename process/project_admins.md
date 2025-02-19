@@ -1,5 +1,7 @@
 ---
-parent: Processes
+parent: Project Lifecycle
+grand_parent: Processes
+nav_order: 999
 ---
 
 # Project Admins
@@ -7,8 +9,7 @@ parent: Processes
 A project admin is a project committer that has been granted GitHub
 Admin privilege level. This gives the individual the right to change
 certain repository settings without needing to submit
-[Linux Foundation Release Engineering Service Desk]
-(https://docs.releng.linuxfoundation.org/en/latest/helpdesk.html) tickets. By
+[Linux Foundation Release Engineering Service Desk](https://docs.releng.linuxfoundation.org/en/latest/helpdesk.html) tickets. By
 default project committers have GitHub Write privilege level.
 
 GitHub also supports the concept of a Maintain privilege level which allows
@@ -35,4 +36,5 @@ Foundation Release Engineering team.
 
 ## List of Project Admins
 
-* Dan Bailey, OpenVDB
+* Dan Bailey, OpenVDB ( [@danrbailey](https://github.com/danrbailey) )
+* Cary Phillips, OpenEXR ( [@cary-ilm](https://github.com/cary-ilm) )
